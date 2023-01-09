@@ -1,7 +1,7 @@
 import time
 from datetime import datetime
 
-import click
+import click # to print with style
 
 
 def sleep_and_print(seconds):
